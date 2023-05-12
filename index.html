@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>devFinder</title>
+</head>
+<body>
+     <!-- container begins -->
+    <div class="container">
+          <!-- logo-container ends-->
+      <div class="logo-container flex_apart">
+         <h2 class="logo">devfinder</h2> 
+          <!-- color mode begins -->
+          <div class="color_mode active flex">
+             <div class="light-mode flex">
+                <p>Light</p>
+                <i class="fas fa-sun"></i>
+              </div>
+               <div class="dark-mode flex">
+                 <p>Dark</p>
+                 <i class="fas fa-moon"></i>
+               </div>
+            </div>
+            <!-- color mode begins -->
+        </div>
+          <!-- logo-container ends -->
+        <!--filter and seaarch container begins  -->
+      <div class="filter_search_content">
+        <div class="devfinder-search-container">
+            <input type="text" placeholder="Search Github username..." id="seaarchUser">
+            <button type="submit">Search</button>
+            <i class="fa-solid fa-magnifying-glass"></i>
+            
+        </div>
+          <select name="state" id="state">
+             <option value="nigeria">ALL Location</option>
+          </select> 
+      </div>
+      <!--filter and seaarch container starts  -->
+      <!-- github container begins -->
+      <div class="github-main-container">
+         
+      </div>
+      <!-- github container ends -->
+    </div>
+     <!-- container ends -->
+     
+      <script type="module" src="./app.js"></script>
+</body>
+</html>

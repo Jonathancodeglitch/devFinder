@@ -1,0 +1,125 @@
+{
+    "states": [
+      {
+        "name": "Abia",
+        "capital": "Umuahia",
+        "region": "South East",
+        "zone": "South East"
+      },
+      {
+        "name": "Adamawa",
+        "capital": "Yola",
+        "region": "North East",
+        "zone": "North East"
+      },
+      {
+        "name": "Akwa Ibom",
+        "capital": "Uyo",
+        "region": "South South",
+        "zone": "South South"
+      },
+      {
+        "name": "Anambra",
+        "capital": "Awka",
+        "region": "South East",
+        "zone": "South East"
+      },
+      {
+        "name": "Bauchi",
+        "capital": "Bauchi",
+        "region": "North East",
+        "zone": "North East"
+      },
+      {
+        "name": "Bayelsa",
+        "capital": "Yenagoa",
+        "region": "South South",
+        "zone": "South South"
+      },
+      {
+        "name": "Benue",
+        "capital": "Makurdi",
+        "region": "North Central",
+        "zone": "North Central"
+      },
+      {
+        "name": "Borno",
+        "capital": "Maiduguri",
+        "region": "North East",
+        "zone": "North East"
+      },
+      {
+        "name": "Cross River",
+        "capital": "Calabar",
+        "region": "South South",
+        "zone": "South South"
+      },
+      {
+        "name": "Delta",
+        "capital": "Asaba",
+        "region": "South South",
+        "zone": "South South"
+      },
+      {
+        "name": "Ebonyi",
+        "capital": "Abakaliki",
+        "region": "South East",
+        "zone": "South East"
+      },
+      {
+        "name": "Edo",
+        "capital": "Benin City",
+        "region": "South South",
+        "zone": "South South"
+      },
+      {
+        "name": "Ekiti",
+        "capital": "Ado Ekiti",
+        "region": "South West",
+        "zone": "South West"
+      },
+      {
+        "name": "Enugu",
+        "capital": "Enugu",
+        "region": "South East",
+        "zone": "South East"
+      },
+      {
+        "name": "FCT",
+        "capital": "Abuja",
+        "region": "North Central",
+        "zone": "North Central"
+      },
+      {
+        "name": "Gombe",
+        "capital": "Gombe",
+        "region": "North East",
+        "zone": "North East"
+      },
+      {
+        "name": "Imo",
+        "capital": "Owerri",
+        "region": "South East",
+        "zone": "South East"
+      },
+      {
+        "name": "Jigawa",
+        "capital": "Dutse",
+        "region": "North West",
+        "zone": "North West"
+      },
+      {
+        "name": "Kaduna",
+        "capital": "Kaduna",
+        "region": "North West",
+        "zone": "North West"
+      },
+      {
+        "name": "Kano",
+        "capital": "Kano",
+        "region": "North West",
+        "zone": "North West"
+      }
+    ]
+}
+  
